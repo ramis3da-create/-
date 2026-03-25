@@ -1,0 +1,165 @@
+[
+  {
+    "id": "company_1",
+    "name": "شركة العطور الفاخرة",
+    "description": "متخصصون في العطور الفاخرة والطبيعية من أفضل الماركات العالمية",
+    "logo": "/image/company1.png",
+    "phone": "963123456789",
+    "email": "info@luxury-perfumes.com",
+    "address": "شارع الحمراء، دمشق، سوريا",
+    "website": "https://luxury-perfumes.com",
+    "established": "2015",
+    "employees": "25-50",
+    "specialties": ["عطور فاخرة", "عطور طبيعية", "عطور رجالية", "عطور نسائية"],
+    "rating": 4.8,
+    "reviews": 156,
+    "socialMedia": {
+      "facebook": "https://facebook.com/luxury-perfumes",
+      "instagram": "https://instagram.com/luxury_perfumes",
+      "twitter": "https://twitter.com/luxury_perfumes"
+    },
+    "workingHours": {
+      "saturday": "9:00 AM - 10:00 PM",
+      "sunday": "9:00 AM - 10:00 PM",
+      "monday": "9:00 AM - 10:00 PM",
+      "tuesday": "9:00 AM - 10:00 PM",
+      "wednesday": "9:00 AM - 10:00 PM",
+      "thursday": "9:00 AM - 10:00 PM",
+      "friday": "2:00 PM - 10:00 PM"
+    },
+    "deliveryAreas": ["دمشق", "ريف دمشق", "حلب", "حمص", "حماة"],
+    "paymentMethods": ["نقدي", "بطاقة ائتمان", "تحويل بنكي"],
+    "certifications": ["ISO 9001", "شهادة الجودة الدولية"],
+    "awards": ["أفضل متجر عطور 2023", "جائزة التميز في الخدمة 2022"]
+  },
+  {
+    "id": "company_2",
+    "name": "مؤسسة الأغذية الصحية",
+    "description": "نقدم أفضل المنتجات الغذائية الصحية والعضوية من مصادر موثوقة",
+    "logo": "/image/company2.png",
+    "phone": "963987654321",
+    "email": "contact@healthy-foods.com",
+    "address": "شارع المالكي، دمشق، سوريا",
+    "website": "https://healthy-foods.com",
+    "established": "2018",
+    "employees": "15-30",
+    "specialties": ["أغذية عضوية", "منتجات صحية", "فواكه طازجة", "خضروات عضوية"],
+    "rating": 4.6,
+    "reviews": 89,
+    "socialMedia": {
+      "facebook": "https://facebook.com/healthy-foods-syria",
+      "instagram": "https://instagram.com/healthy_foods_syria"
+    },
+    "workingHours": {
+      "saturday": "7:00 AM - 8:00 PM",
+      "sunday": "7:00 AM - 8:00 PM",
+      "monday": "7:00 AM - 8:00 PM",
+      "tuesday": "7:00 AM - 8:00 PM",
+      "wednesday": "7:00 AM - 8:00 PM",
+      "thursday": "7:00 AM - 8:00 PM",
+      "friday": "7:00 AM - 8:00 PM"
+    },
+    "deliveryAreas": ["دمشق", "ريف دمشق"],
+    "paymentMethods": ["نقدي", "بطاقة ائتمان"],
+    "certifications": ["شهادة المنتجات العضوية", "ISO 22000"],
+    "awards": ["أفضل متجر أغذية صحية 2023"]
+  },
+  {
+    "id": "company_3",
+    "name": "شركة الأجهزة الإلكترونية المتطورة",
+    "description": "أحدث الأجهزة الإلكترونية والتقنية بأفضل الأسعار وضمان شامل",
+    "logo": "/image/company3.png",
+    "phone": "963555123456",
+    "email": "sales@tech-devices.com",
+    "address": "شارع بغداد، دمشق، سوريا",
+    "website": "https://tech-devices.com",
+    "established": "2020",
+    "employees": "50-100",
+    "specialties": ["هواتف ذكية", "أجهزة كمبيوتر", "إلكترونيات منزلية", "ألعاب إلكترونية"],
+    "rating": 4.7,
+    "reviews": 234,
+    "socialMedia": {
+      "facebook": "https://facebook.com/tech-devices-syria",
+      "instagram": "https://instagram.com/tech_devices_syria",
+      "youtube": "https://youtube.com/tech-devices-syria"
+    },
+    "workingHours": {
+      "saturday": "10:00 AM - 11:00 PM",
+      "sunday": "10:00 AM - 11:00 PM",
+      "monday": "10:00 AM - 11:00 PM",
+      "tuesday": "10:00 AM - 11:00 PM",
+      "wednesday": "10:00 AM - 11:00 PM",
+      "thursday": "10:00 AM - 11:00 PM",
+      "friday": "2:00 PM - 11:00 PM"
+    },
+    "deliveryAreas": ["دمشق", "ريف دمشق", "حلب", "حمص", "حماة", "اللاذقية"],
+    "paymentMethods": ["نقدي", "بطاقة ائتمان", "تحويل بنكي", "تقسيط"],
+    "certifications": ["وكيل معتمد", "ضمان دولي"],
+    "awards": ["أفضل متجر إلكترونيات 2023", "جائزة خدمة العملاء المتميزة"]
+  },
+  {
+    "id": "company_4",
+    "name": "مؤسسة الأزياء والموضة",
+    "description": "أحدث صيحات الموضة والأزياء للرجال والنساء من أفضل الماركات",
+    "logo": "/image/company4.png",
+    "phone": "963777888999",
+    "email": "fashion@style-boutique.com",
+    "address": "شارع أبو رمانة، دمشق، سوريا",
+    "website": "https://style-boutique.com",
+    "established": "2017",
+    "employees": "20-40",
+    "specialties": ["أزياء نسائية", "أزياء رجالية", "إكسسوارات", "أحذية"],
+    "rating": 4.5,
+    "reviews": 167,
+    "socialMedia": {
+      "facebook": "https://facebook.com/style-boutique-syria",
+      "instagram": "https://instagram.com/style_boutique_syria",
+      "tiktok": "https://tiktok.com/@style_boutique_syria"
+    },
+    "workingHours": {
+      "saturday": "10:00 AM - 10:00 PM",
+      "sunday": "10:00 AM - 10:00 PM",
+      "monday": "10:00 AM - 10:00 PM",
+      "tuesday": "10:00 AM - 10:00 PM",
+      "wednesday": "10:00 AM - 10:00 PM",
+      "thursday": "10:00 AM - 10:00 PM",
+      "friday": "2:00 PM - 10:00 PM"
+    },
+    "deliveryAreas": ["دمشق", "ريف دمشق", "حلب"],
+    "paymentMethods": ["نقدي", "بطاقة ائتمان", "تقسيط"],
+    "certifications": ["وكيل معتمد للماركات العالمية"],
+    "awards": ["أفضل متجر أزياء 2022", "جائزة التميز في الموضة"]
+  },
+  {
+    "id": "company_5",
+    "name": "شركة الأدوات المنزلية والمطبخ",
+    "description": "جميع احتياجاتك المنزلية والمطبخ بأفضل جودة وأسعار منافسة",
+    "logo": "/image/company5.png",
+    "phone": "963444555666",
+    "email": "home@kitchen-tools.com",
+    "address": "شارع الشهبندر، دمشق، سوريا",
+    "website": "https://kitchen-tools.com",
+    "established": "2016",
+    "employees": "30-60",
+    "specialties": ["أدوات مطبخ", "أدوات منزلية", "أجهزة كهربائية", "ديكورات"],
+    "rating": 4.4,
+    "reviews": 98,
+    "socialMedia": {
+      "facebook": "https://facebook.com/kitchen-tools-syria",
+      "instagram": "https://instagram.com/kitchen_tools_syria"
+    },
+    "workingHours": {
+      "saturday": "9:00 AM - 9:00 PM",
+      "sunday": "9:00 AM - 9:00 PM",
+      "monday": "9:00 AM - 9:00 PM",
+      "tuesday": "9:00 AM - 9:00 PM",
+      "wednesday": "9:00 AM - 9:00 PM",
+      "thursday": "9:00 AM - 9:00 PM",
+      "friday": "2:00 PM - 9:00 PM"
+    },
+    "deliveryAreas": ["دمشق", "ريف دمشق", "حمص", "حماة"],
+    "paymentMethods": ["نقدي", "بطاقة ائتمان", "تحويل بنكي"],
+    "certifications": ["ISO 9001", "شهادة الجودة"],
+    "awards": ["أفضل متجر أدوات منزلية 2023"]
+  }
+]
